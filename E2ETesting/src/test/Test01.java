@@ -3,6 +3,7 @@ package test;
 import org.testng.annotations.*;
 import org.openqa.selenium.chrome.*;
 
+// A simple test case
 public class Test01 {
 
 	@Test
