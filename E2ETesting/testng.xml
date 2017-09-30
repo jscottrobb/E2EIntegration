@@ -7,7 +7,6 @@
       <class name="test.Test02"/>
       <class name="test.Test03"/>
       <class name="test.Test04"/>
-      <class name="test.Test05"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
